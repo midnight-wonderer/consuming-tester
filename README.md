@@ -25,8 +25,8 @@ So, Consuming Tester was born.
 - Configure some variables
 - Profits
 
-Examples
-- TODO
+### Examples
+See [Embeddable SPARX](https://github.com/the-cave/embeddable-sparx/blob/master/Makefile) for a usage example to get some idea.
 
 ## License
 
